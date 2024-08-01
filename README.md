@@ -6,7 +6,8 @@ Repository to calculate cosmological distances using an emulator.
 
 - [Sadi Ramirez Solano](mailto:sadiramirez@estudiantes.fisica.unam.mx)
 
-  Special thanks to Gabriela García (The BOSS 😉)
+  Special thanks to Sebastien Fromenteau
+  Special thanks to Gabriela García
 
 This project offers a brief practical introduction to emulators with an aplications to distances in cosmology.
 
