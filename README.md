@@ -1,9 +1,8 @@
-# Repository for the *Herramientas para Análisis de Formación de Estructuras* @ Cuernavaca, Morelos
-
-# Emulator_Distancess
-Emulator to calculate cosmological distances.
+# *Emulator Distances Repository* @ Cuernavaca, Morelos
 
 Repository for the *V Taller de Métodos Numéricos y Estadísticos en Cosmología* @ Cuernavaca, Morelos
+
+Repository to calculate cosmological distances using an emulator.
 
 - [Sadi Ramirez Solano](mailto:sadiramirez@estudiantes.fisica.unam.mx)
 
