@@ -12,8 +12,8 @@ This project offers a brief practical introduction to emulators with an aplicati
 
 
 #### To execute the project locally
-https://github.com/sadirs/Emulador_Distancias/blob/main/emulator_distances.ipynb
-To execute the project locally, download the repository and run the [Jupyter Notebook](https://github.com/henoriega/Methods_2024_ICF/blob/main/Tutorial.ipynb).
+
+To execute the project locally, download the repository and run the [Jupyter Notebook](https://github.com/sadirs/Emulador_Distancias/blob/main/emulator_distances.ipynb).
 
 #### To execute the project remotely:
 
